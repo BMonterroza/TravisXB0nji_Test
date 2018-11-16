@@ -1,0 +1,15 @@
+{
+  "name": "quick_app",
+  "version": "4.1.2",
+  "description": "Projecto de calidad y pruebas de software para integracion con Travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B0nji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.4.1"
+  }
+}
